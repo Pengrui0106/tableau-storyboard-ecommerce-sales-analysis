@@ -18,6 +18,7 @@ Screenshots of the dashboard (for quick reference)
 2)Find out the shipping patterns and discount patterns to improve logistics and marketing operations. 
 
 📈 Dashboard Preview
+![Dashboard Preview](.01.jpg)
 
 
 
